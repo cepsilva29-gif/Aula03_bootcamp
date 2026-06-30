@@ -10,12 +10,7 @@ preco = -20
 if quantidade > 0 and preco > 0:
     print("Dados válidos")
 else:
-    print("Dados inválidos")    
-
-
-
-
-
+    print("Dados inválidos")  
 
 ### Exercício 2: Classificação de Dados de Sensor
 # Imagine que você está trabalhando com dados de sensores IoT. 
